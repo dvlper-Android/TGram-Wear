@@ -1,5 +1,5 @@
 # TGram-Wear
-Messaging App that let you send messages using voice commands or text inputs to your contacts using Telegram's code
+Tgram Wear is a messaging App that let you send messages using voice commands or text inputs to your contacts using Telegram's code
 
 This isn't a official Telegram app.
 
